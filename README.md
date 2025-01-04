@@ -1,0 +1,1 @@
+This repository demonstrates an example of an unhandled base case in a recursive function. The `factorial` function correctly calculates factorials for non-negative integers, but it enters into infinite recursion when a negative input is provided, resulting in a `RecursionError`. The solution illustrates how to add a condition to handle this case.
